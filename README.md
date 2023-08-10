@@ -8,7 +8,7 @@ An article-summarizing website powered by GPT-4
 
 Come see it for yourself!
 
-[Sumz.ai Website](https://aaron-jin-sumzai.netlify.app/)
+[Sumz.ai Website](https://aaron-sumz-ai.vercel.app/)
 
 ### Background and Inspiration
 
