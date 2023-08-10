@@ -2,7 +2,7 @@
 
 An article-summarizing website powered by GPT-4
 
-<img width="1000" alt="Screen Shot 2023-06-30 at 3 45 35 PM" src="https://github.com/aaronkjin/sumz-ai/assets/58490258/50e1c81a-05fd-4f79-8d5b-bc64f4b9cd97">
+<img width="1000" alt="Screen Shot 2023-08-10 at 4 22 09 PM" src="https://github.com/aaronkjin/sumz-ai/assets/58490258/fe1a09f4-672a-4024-a6ae-b897277f2928">
 
 ### Link to website
 
