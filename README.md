@@ -31,4 +31,3 @@ This was the first time I incorporated OpenAI's API to my own website. However, 
 By: Aaron Jin
 
 Main GitHub Profile link: https://github.com/aaronkjin
-# sumz-ai
